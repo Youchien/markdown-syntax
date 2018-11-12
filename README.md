@@ -1,4 +1,3 @@
-<< [访问 Wow!Ubuntu](http://wowubuntu.com)
 
 **NOTE:** This is Simplelified  Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to [Markdown: Syntax][eng-doc].
 
@@ -710,7 +709,7 @@ Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的�
 感谢 [leafy7382][] 协助翻译，[hlb][]、[Randylien][] 帮忙润稿，[ethantw][] 的[汉字标准格式・CSS Reset][]， [WM][] 回报文字错误。
 
 ----------
-<h2 id="editor">Markdown 免费编辑器</h2>
+<h2 id="useful-link">常用链接</h2>
 
 Windows 平台
 
