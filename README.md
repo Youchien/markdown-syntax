@@ -594,7 +594,7 @@ Markdown 使用星号（`*`）和底线（`_`）作为标记强调字词的符�
 
     <p><code>There is a literal backtick (`) here.</code></p>
 
-代码块，你可以使用上下两行三个( ``` )中间贴出代码即可，在Github中可以在第一行三个` ` `后标记处小写的具体编程语言
+代码块，你可以使用上下两行三个( ``` )中间贴出代码即可，在Github中可以在第一行三个( \` )后指定具体的编程语言：
 
 	```java
 	public static void main(String[] args) {
